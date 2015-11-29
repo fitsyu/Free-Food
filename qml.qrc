@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/UI">
+        <file>main.qml</file>
+        <file>FoodMap.qml</file>
+        <file>FoodShare.qml</file>
+        <file>Link.qml</file>
+        <file>FoodUpdate.qml</file>
+        <file>FoodView.qml</file>
+        <file>FoodPlace.qml</file>
+        <file>Activity.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>background.png</file>
+        <file>FreeFoodLogo.png</file>
+        <file>cake.png</file>
+        <file>roti.jpg</file>
+        <file>pukis.jpg</file>
+        <file>donat.jpg</file>
+    </qresource>
+</RCC>
