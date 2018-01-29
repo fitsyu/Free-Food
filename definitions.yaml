@@ -1,0 +1,10 @@
+Something
+  type: object
+  properties:
+    name:
+      type: string
+      example: thing
+    amount:
+      type: integer
+      example: 10
+    
